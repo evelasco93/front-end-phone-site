@@ -2,7 +2,7 @@
 
 This is a clone of the iPhone 15 site, it includes scroll-triggered animations, 3D Models, and many other modern UI components, based on an original project by [Javascript Mastery](https://www.youtube.com/@javascriptmastery/videos).
 
-# Techn Stack
+# Tech Stack
 
 - React.js
 - Three.js
