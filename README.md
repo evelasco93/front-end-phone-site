@@ -4,13 +4,13 @@ This is a clone of the iPhone 15 site, it includes scroll-triggered animations, 
 
 # Techn Stack
 
--React.js
--Three.js
--React Three Fiber
--React Three Drei
--GSAP (Greensock)
--Vite
--Tailwind CSS
+- React.js
+- Three.js
+- React Three Fiber
+- React Three Drei
+- GSAP (Greensock)
+- Vite
+- Tailwind CSS
 
 # Guide
 
